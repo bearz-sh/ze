@@ -1,0 +1,5 @@
+{
+    "dotnet.defaultSolution": "apps/apps.sln",
+    "deno.enable": true,
+    "deno.unstable": true
+}
